@@ -68,7 +68,6 @@ class _ScoreHomeState extends State<ScoreHome> {
                   color: Colors.green,
                   fontWeight: FontWeight.bold),
             ),
-            Text("hello"),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
